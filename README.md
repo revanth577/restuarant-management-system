@@ -1,4 +1,4 @@
 
 run the project by 
->npm install
+>npm install <br>
 >npm run dev
